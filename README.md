@@ -3,6 +3,7 @@ TP de Calidad agua del rio de la plata - Fundamentos de la ciencia de datos.
 
 
 # Requisitos
+
 1_ Tener python 3.12.5 instalado. (Se puede verificar al ingresar en una terminal el codigo "python --versión" sin las comillas.)
 
 2_ Tener Git Instalado.
