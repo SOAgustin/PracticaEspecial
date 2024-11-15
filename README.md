@@ -14,7 +14,9 @@ TP de Calidad agua del rio de la plata - Fundamentos de la ciencia de datos.
 
 
 # Creación del entorno (Necesario antes de intentar abrir el archivo .ipynb)
+
 Pasos:
+
 1_ Elegir la carpeta en donde se descargara el repositorio
 
 2_ Dentro de la carpeta destino hacer click derecho y seleccionar "git bash here", se debería abrir una consola de comandos.
